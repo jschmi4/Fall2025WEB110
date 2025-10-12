@@ -1,7 +1,7 @@
  /* Jason Schmitz October, 2025 Styles CSS file for Travel Guide */
  
     body {
-        background: url("images/background.jpg") no-repeat center fixed;
+        background: url("background.jpg") no-repeat center fixed;
 		font-family: Arial, Helvetica, sans-serif;
 	}
 	main {
@@ -10,7 +10,7 @@
 		width: 50%;
 }
 	header {
-		background: url("images/logo.png") no-repeat right;
+		background: url("Week6&7Project/logo.png") no-repeat right;
 		color: white;
 		padding: 20px;
 		text-align: center;
