@@ -3,7 +3,9 @@
 
 	body {
 		background-color: #DDD0C8;
-		font-family: Arial, sans-serif;
+		font-family: "Times New Roman", Times, serif;
+		font-size: 120%;
+		line_height: 150%;
 		text-align: center;
 	}
 	
@@ -186,6 +188,8 @@
 		flex-wrap: wrap;
 		gap: 10px;
 		list-style: none;
+		margin: 0 auto;
+		text-align: center;
 	}
 
 	.image-gallery > li {
@@ -195,9 +199,9 @@
 
 	.image-gallery li img {
 		height: 100%;
+		margin-right: auto;
 		object-fit: cover;
-		vertical-align: center;
-		text-align: center;
+		vertical-align: middle;
 		width: 100%;
 	}
 	
