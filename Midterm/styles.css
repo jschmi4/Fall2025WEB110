@@ -1,11 +1,11 @@
- /* Jason Schmitz October, 19 2025 Styles CSS file for Favorite Book Showcase */
+ /* Jason Schmitz October, 25 2025 Styles CSS file for Portfolio */
  
 
 	body {
 		background-color: #DDD0C8;
 		font-family: "Times New Roman", Times, serif;
 		font-size: 120%;
-		line-height: 100%;
+		line-height: 110%;
 		text-align: center;
 	}
 	
@@ -91,6 +91,10 @@
 		height: 20%;
 		margin-right: .2%;
 		width: 20%;
+	}
+	
+	.class_input h2 {
+		margin-top: 7%;
 	}
 	
 	.center {
