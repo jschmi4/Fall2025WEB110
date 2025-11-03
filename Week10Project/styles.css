@@ -86,7 +86,11 @@
 		margin-top: 20px;
 		padding: 10px;
 	}
-	
+
+	.footer a:visited {
+  		color: tan;
+	}
+
 	@media (max-width: 768px) {
 		.hero {
 			flex-direction: column;
