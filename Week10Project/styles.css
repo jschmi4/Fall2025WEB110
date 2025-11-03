@@ -88,7 +88,7 @@
 	}
 
 	.footer a:visited {
-  		color: tan;
+		color: lightgray;
 	}
 
 	@media (max-width: 768px) {
