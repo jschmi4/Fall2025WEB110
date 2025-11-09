@@ -26,4 +26,6 @@
 	
 	footer a:visited {
 		color: purple;
+		padding: 10px;
+		top-margin: 20px;
 	}
