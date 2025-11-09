@@ -24,9 +24,9 @@
 		background-color: #c5dff8;
 	}
 
-	footer a {
+	footer {
+		margin-top: 20px;
 		padding: 10px;
-		top-margin: 20px;
 	}
 
 	footer a:visited {
