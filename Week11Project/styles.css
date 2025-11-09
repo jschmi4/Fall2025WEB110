@@ -23,9 +23,12 @@
 	tr:nth-child(even) {
 		background-color: #c5dff8;
 	}
-	
-	footer a:visited {
-		color: purple;
+
+	footer {
 		padding: 10px;
 		top-margin: 20px;
+	}
+
+	footer a:visited {
+		color: purple;
 	}
